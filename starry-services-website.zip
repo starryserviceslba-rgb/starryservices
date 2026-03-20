@@ -1,0 +1,110 @@
+# STARRY SERVICES SARLU - Site Web Entreprise
+
+Un site web moderne et professionnel pour STARRY SERVICES SARLU, entreprise spécialisée dans la conception de systèmes intelligents, maintenance électrique, construction de bâtiments et sous-traitance industrielle.
+
+**Localisation :** Kolwezi, Province du Lualaba, Congo Kinshasa
+
+## Services
+
+- 🌱 **Systèmes Intelligents** - Irrigation intelligente, systèmes de sécurité, IoT & automatisation
+- ⚡ **Maintenance Électrique** - Installation industrielle, maintenance préventive, dépannage d'urgence
+- 🏗️ **Construction de Bâtiments** - Construction résidentielle, commerciale, rénovation
+- 🤝 **Sous-Traitance** - Sous-traitance industrielle, gestion de projets, consulting technique
+
+## Contact
+
+- **Email :** starryserviceslba@gmail.com
+- **Téléphone :** 0858866526
+- **Localisation :** Kolwezi, Province du Lualaba, Congo Kinshasa
+
+## Fonctionnalités
+
+- 🎨 **Design Moderne** - Design épuré et professionnel avec dégradés élégants
+- 📱 **Entièrement Responsive** - Fonctionne parfaitement sur tous les appareils
+- ⚡ **Animations Fluides** - Effets de fondu, animation de frappe et interactions hover
+- 🎯 **Navigation Interactive** - Défilement fluide avec surbrillance de section active
+- 💼 **Portfolio de Projets** - Cartes de projets dynamiques avec étiquettes technologiques
+- � **Formulaire de Contact** - Formulaire fonctionnel avec validation
+- 🌐 **Liens Sociaux** - Liens vers réseaux sociaux intégrés
+
+## Sections
+
+1. **Section Hero** - Introduction percutante avec animation de frappe
+2. **À Propos** - Présentation de l'entreprise et de son expertise
+3. **Services & Compétences** - Services techniques et soft skills avec barres de progression
+4. **Projets Réalisés** - Portfolio des projets récents avec détails
+5. **Contact** - Formulaire de contact et informations professionnelles
+
+## Technologies Utilisées
+
+- **HTML5** - Balisage sémantique
+- **Tailwind CSS** - Framework CSS utilitaire (via CDN)
+- **JavaScript (ES6+)** - JavaScript moderne pour les interactions
+- **Font Awesome** - Bibliothèque d'icônes
+- **Google Fonts** - Famille de polices Inter
+
+## Personnalisation
+
+### Informations de l'Entreprise
+
+Modifier les éléments suivants dans `index.html`:
+
+- Nom de l'entreprise et titres dans la section hero
+- Contenu de la section "À Propos"
+- Services et niveaux de compétence
+- Informations des projets
+- Coordonnées de contact
+
+### Style
+
+Le site utilise les classes Tailwind CSS. Vous pouvez personnaliser:
+
+- Couleurs : Modifier les couleurs de dégradé dans les propriétés CSS personnalisées
+- Polices : Modifier l'import Google Fonts
+- Mise en page : Ajuster les classes Tailwind pour différentes mises en page
+
+### Ajout de Projets
+
+Pour ajouter de nouveaux projets:
+
+1. Copier une carte de projet existante
+2. Mettre à jour le titre, la description et les technologies
+3. Remplacer les liens placeholder par les URLs réelles des projets
+
+### Liens Sociaux
+
+Mettre à jour les liens des réseaux sociaux dans le footer et la section hero en remplaçant les attributs `href` par vos URLs de profil réels.
+
+## Support Navigateur
+
+Ce site web supporte tous les navigateurs modernes:
+- Chrome (dernière version)
+- Firefox (dernière version)
+- Safari (dernière version)
+- Edge (dernière version)
+
+## Performance
+
+- Images et ressources optimisées
+- JavaScript minimal pour un chargement rapide
+- Animations CSS au lieu de bibliothèques lourdes
+- Structure prête pour le lazy loading
+
+## Déploiement
+
+Ce site est statique et peut être déployé sur:
+
+- Netlify
+- Vercel
+- GitHub Pages
+- Tout service d'hébergement statique
+
+Téléchargez simplement les fichiers sur votre fournisseur d'hébergement et le site sera en ligne!
+
+## Licence
+
+Ce projet est open source et disponible sous la [Licence MIT](LICENSE).
+
+---
+
+**Créé avec ❤️ par Starry Services**
